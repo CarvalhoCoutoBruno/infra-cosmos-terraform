@@ -1,0 +1,5 @@
+{
+    "environment": "Production",
+    "managed-by": "Terraform",
+    "project-name": "Skina API's"
+}
